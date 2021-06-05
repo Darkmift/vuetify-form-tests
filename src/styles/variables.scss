@@ -1,0 +1,11 @@
+@import '~vuetify/src/components/VStepper/_variables.scss';
+
+$material-light: (
+    (
+        'buttons': (
+            'disabled': rgba(131, 103, 197, 0.5),
+        ),
+    )
+);
+$body-font-family: 'Work Sans', serif;
+$btn-letter-spacing: 10;
